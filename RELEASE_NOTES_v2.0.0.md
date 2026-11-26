@@ -12,7 +12,7 @@ SKOrganizer 2 è stato sviluppato con assistenza AI **sotto la direzione di Past
 
 ## Download e requisiti
 
-L'asset Windows previsto per questa Release è `SKOrganizer2-2.0-win-x64.exe` (**105.205.944 byte**). Va allegato alla Release; non è un file del repository. La sua impronta SHA-256 verificata è:
+L'asset Windows di questa Release è `SKOrganizer2-2.0-win-x64.exe` (**105.205.944 byte**), allegato alla Release e non ai file del repository. La sua impronta SHA-256 verificata è:
 
 ```text
 af3a6633cb6be18babf5d59a8cf512dcc9fa51bffe0467d1a7c713f2c3e9607e  SKOrganizer2-2.0-win-x64.exe
