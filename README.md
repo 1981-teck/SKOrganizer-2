@@ -4,7 +4,7 @@
 
 Il progetto è ideato e diretto da **Pastoris Marco Vincenzo**. Lo sviluppo della 2.0 è stato svolto da lui orchestrando strumenti di AI per analisi, implementazione, verifiche e documentazione. Le decisioni sul prodotto e il collaudo finale sono rimasti sotto il suo controllo. Leggi [il ruolo dell'autore](AUTHORSHIP.md) e [come è stato prodotto il programma](COME_E_STATO_PRODOTTO.md).
 
-La [pagina di presentazione](docs/index.html) è disponibile nei file del repository.
+Il [sito di SKOrganizer 2](https://1981-teck.github.io/SKOrganizer-2/) presenta funzioni, download e requisiti. Il suo [codice HTML](docs/index.html) è in questo repository.
 
 ## Scaricare e installare
 
