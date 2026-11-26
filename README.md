@@ -4,7 +4,7 @@
 
 Il progetto è ideato e diretto da **Pastoris Marco Vincenzo**. Lo sviluppo della 2.0 è stato svolto da lui orchestrando strumenti di AI per analisi, implementazione, verifiche e documentazione. Le decisioni sul prodotto e il collaudo finale sono rimasti sotto il suo controllo. Leggi [il ruolo dell'autore](AUTHORSHIP.md) e [come è stato prodotto il programma](COME_E_STATO_PRODOTTO.md).
 
-La [pagina di presentazione](docs/index.html) è pronta nel repository. GitHub Pages resta disattivato durante la revisione privata.
+La [pagina di presentazione](docs/index.html) è disponibile nei file del repository.
 
 ## Scaricare e installare
 
