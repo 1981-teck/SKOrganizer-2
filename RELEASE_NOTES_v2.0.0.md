@@ -1,8 +1,6 @@
 # SKOrganizer 2 — v2.0.0
 
-> Bozza privata delle note di Release. Verificare repository, pagina web e asset prima della pubblicazione.
-
-SKOrganizer 2 organizza file e cartelle locali secondo categorie e regole configurate dall'utente. Offre **Preview** delle destinazioni, **Organize All**, **Monitoring** e **Undo** quando l'operazione lo consente. La versione visualizzata nell'app è **2.0**; `v2.0.0` è il tag previsto per questa Release.
+SKOrganizer 2 organizza file e cartelle locali secondo categorie e regole configurate dall'utente. Offre **Preview** delle destinazioni, **Organize All**, **Monitoring** e **Undo** quando l'operazione lo consente. La versione visualizzata nell'app è **2.0**; `v2.0.0` è il tag di questa Release.
 
 ## Dalla versione 1.0 alla 2.0
 
@@ -34,4 +32,4 @@ Una prova su Windows appena installato **non è stata eseguita**. L'installer **
 
 L'applicazione originale è distribuita senza costo secondo i propri [termini](https://github.com/1981-teck/SKOrganizer-2/blob/main/LEGAL/SKORGANIZER_TERMS.txt). Qt, PySide6, shiboken6 e gli altri componenti mantengono le rispettive licenze. L'installer include la cartella `LEGAL` con testi delle licenze, avvisi, archivi dei sorgenti pubblici Qt/PySide6/shiboken6 e istruzioni per sostituire le librerie LGPL compatibili. Il codice sorgente proprietario dell'app non è pubblicato in questo repository.
 
-Il 23 novembre 2026 è stata inviata al team Qt una richiesta di chiarimenti sulla corrispondenza dei sorgenti pubblici con i wheel Windows usati. Alla data di questa bozza non è pervenuta una risposta; la richiesta non equivale a un'approvazione di Qt.
+Il 23 novembre 2026 è stata inviata al team Qt una richiesta di chiarimenti sulla corrispondenza dei sorgenti pubblici con i wheel Windows usati. Al 26 novembre 2026 non è pervenuta una risposta; la richiesta non equivale a un'approvazione di Qt.
