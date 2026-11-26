@@ -5,14 +5,14 @@ Queste istruzioni si riferiscono a **SKOrganizer 2.0 per Windows x64**. Il pacch
 ## Prima di iniziare
 
 1. Installa la versione x64 più recente supportata di [Microsoft Visual C++ v14 Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist/). È un prerequisito esterno: l'installer SKOrganizer non lo include e segnala le librerie mancanti.
-2. Scarica `SKOrganizer2-2.0-win-x64.exe` dagli **asset della Release 2.0** di questo repository, quando disponibili. Installa il programma e gestisci i file su un disco locale fisso; unità rimovibili e condivisioni di rete non sono supportate.
+2. Scarica `SKOrganizer2-2.0-win-x64.exe` dagli **asset della [Release v2.0.0](https://github.com/1981-teck/SKOrganizer-2/releases/tag/v2.0.0)** di questo repository. Installa il programma e gestisci i file su un disco locale fisso; unità rimovibili e condivisioni di rete non sono supportate.
 3. Controlla l'impronta del file scaricato. In PowerShell, nella cartella che lo contiene, esegui:
 
    ```powershell
    (Get-FileHash -LiteralPath .\SKOrganizer2-2.0-win-x64.exe -Algorithm SHA256).Hash
    ```
 
-   Per il candidato 2.0 collaudato deve risultare `af3a6633cb6be18babf5d59a8cf512dcc9fa51bffe0467d1a7c713f2c3e9607e`. Se la Release pubblica indica un'impronta diversa, usa quella riportata accanto al suo asset e verifica che i due valori coincidano. Non avviare un file con impronta inattesa.
+   Per la versione 2.0 collaudata deve risultare `af3a6633cb6be18babf5d59a8cf512dcc9fa51bffe0467d1a7c713f2c3e9607e`. Confronta anche l'impronta mostrata da GitHub accanto all'asset. Se i valori differiscono, non avviare il file e segnala la discrepanza.
 
 ## Installazione e primo utilizzo
 
