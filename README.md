@@ -8,7 +8,7 @@ La [pagina di presentazione](docs/index.html) è pronta nel repository. GitHub P
 
 ## Scaricare e installare
 
-L'installer `SKOrganizer2-2.0-win-x64.exe` è destinato agli **asset della [Release v2.0.0](https://github.com/1981-teck/SKOrganizer-2/releases/tag/v2.0.0)** di questo repository, non ai file del codice Git. Prima dell'installazione servono Windows x64 su processore Intel/AMD, [Microsoft Visual C++ v14 Redistributable x64](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist/) installato separatamente e un disco locale fisso. Python 3.13.13 e Qt/PySide6 6.11.3 sono già inclusi nell'installer.
+L'installer `SKOrganizer2-2.0-win-x64.exe` si trova negli **asset della [sezione Releases](https://github.com/1981-teck/SKOrganizer-2/releases)** di questo repository, non tra i file del codice Git. Prima dell'installazione servono Windows x64 su processore Intel/AMD, [Microsoft Visual C++ v14 Redistributable x64](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist/) installato separatamente e un disco locale fisso. Python 3.13.13 e Qt/PySide6 6.11.3 sono già inclusi nell'installer.
 
 Leggi [installazione, controllo SHA-256 e primo utilizzo](INSTALL_WINDOWS.md). Il candidato 2.0 verificato ha SHA-256:
 
