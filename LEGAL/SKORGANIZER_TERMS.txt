@@ -1,0 +1,66 @@
+SKOrganizer 2 - No-Charge Proprietary Application Terms
+Version 2.0, 24 November 2026
+
+Copyright (c) 2025-2026 Pastoris Marco Vincenzo. All rights reserved in the
+original SKOrganizer 2 application code.
+
+Permission to use. The copyright holder grants you a non-exclusive,
+royalty-free permission to install and use the original SKOrganizer 2
+application without charge for personal, educational, or business purposes.
+You may make copies for your own installation and backup.
+
+Permission to share. An official release package is an installer or archive
+published by the copyright holder with the application, these terms, and the
+LEGAL materials included. You may share the complete, unmodified official
+release package without charge. The Windows installer already contains the
+LEGAL folder, license texts, notices, and library sources; an unchanged copy
+of that installer does not need a second, external copy of those materials.
+Do not describe a changed package as an official release from the copyright
+holder. This sharing permission does not grant ownership of, or a source
+license for, the original application code.
+
+You may also share without charge a copy of the installed application folder
+in which only the separately licensed LGPL libraries have been replaced with
+modified or compatible versions. Keep the original application files and
+LEGAL materials intact, clearly identify the replacement libraries and your
+changes, provide the corresponding source for modified LGPL libraries as
+their licenses require, and comply with the applicable library licenses.
+Such a copy is not an official SKOrganizer release. These terms do not limit
+separate distribution of the LGPL libraries or any other rights granted by
+their licenses.
+
+Original application code. Except for the permissions above, the LGPL-related
+activities expressly preserved below, and rights that applicable law cannot
+limit, modifying, sublicensing, or distributing changed versions of the
+original proprietary application code requires separate permission from its
+copyright holder.
+
+Third-party components. Qt, PySide6, shiboken6, Python, and the other
+third-party components keep their own licenses. These application terms do
+not reduce any rights those licenses grant. In particular, they do not
+restrict studying, modifying, copying, or redistributing LGPL-covered
+libraries under the LGPL; replacing or relinking them with compatible
+versions; running this application with those versions; or reverse
+engineering the application where necessary to debug library modifications.
+See LEGAL/README.txt and LEGAL/LICENSES for the component-specific rights and
+the instructions for replacing the libraries.
+
+Microsoft code incorporated in the Windows Python binaries. By installing,
+using, or redistributing this Windows package, you agree to the following
+conditions for Microsoft Distributable Code embedded in the included Windows
+Python .dll and .pyd files. You must require anyone to whom you redistribute the
+package, including downstream distributors and external end users, to agree
+to conditions that protect that Microsoft code at least as much as these:
+
+* Do not alter a copyright, trademark, or patent notice in that code.
+* Do not use Microsoft's trademarks in a program name or in a way that
+  suggests Microsoft made or endorsed the program.
+* Do not distribute that code to run on platforms other than Microsoft
+  operating systems, run-time technologies, or application platforms.
+* Do not include that code in a malicious, deceptive, or unlawful program.
+
+These conditions concern only that embedded Microsoft code. They do not
+change the licenses of Python, the LGPL libraries, or the original
+SKOrganizer 2 application. The source of these conditions is reproduced in
+LEGAL/LICENSES/Python-3.13.13-Windows-CRT.txt.
+

@@ -1,0 +1,71 @@
+SKOrganizer 2 - third-party notices for the Windows x64 package
+
+Qt / Qt for Python
+-----------------
+Qt 6.11.3 (Core, Gui, Widgets, SVG and Image Formats plugins),
+PySide6-Essentials 6.11.3 and shiboken6 6.11.3 are used under
+LGPL-3.0-only. Copyright The Qt Company Ltd. and Qt contributors.
+License texts: LICENSES/LGPL-3.0-only.txt and GPL-3.0-only.txt.
+Upstream source archives for the included modules: SOURCES/ (four archives).
+The source archives retain the original copyright and modification history.
+Upstream license information: https://doc.qt.io/qt-6.11/licensing.html and
+https://doc.qt.io/qtforpython-6.11/licenses.html .
+
+Qt embeds or ships code from other authors. The 50 source attribution
+records for relevant Qt modules, including copyright and license names,
+are reproduced in QT_SOURCE_ATTRIBUTIONS.txt. They cover a conservative
+set: some components may be excluded by the particular Windows build.
+The relevant Qt 6.11.3 license texts are in LICENSES/Qt and component
+license files remain in the corresponding SOURCES archives. In particular:
+
+* Qt Core: zlib, PCRE2, Unicode UCD/CLDR, double-conversion, BLAKE2 and
+  other components listed in QT_SOURCE_ATTRIBUTIONS.txt.
+* Qt Gui: FreeType (FreeType Project License option), HarfBuzz, libjpeg-turbo,
+  libpng, D3D12 support and other components in that catalog.
+* Qt SVG: XSVG, Copyright 2002 USC/Information Sciences Institute;
+  HPND-sell-variant in LICENSES/Qt/qtsvg/HPND-sell-variant.txt.
+* Qt Image Formats: libtiff 4.7.2, libtiff License in
+  LICENSES/Qt/qtimageformats/libtiff.txt; libwebp 1.6.0, BSD-3-Clause in
+  LICENSES/libwebp-1.6.0-COPYING.txt, including Google's copyright notice.
+* Qt's opengl32sw.dll contains Mesa llvmpipe. Copyright (C) 1999-2007
+  Brian Paul, Copyright (c) 2013-2016 The Khronos Group Inc. and
+  (C) Copyright yohhoy 2012. Full MIT and Boost Software License 1.0
+  notices: MESA_LLVMPIPE_NOTICE.txt.
+* shiboken6 contains adapted Python 3.7 code in its buffer and signature
+  support. The Python Software Foundation License version 2 and historical
+  notices appear in LICENSES/Python-3.7.0-Shiboken.txt, copied from the
+  official PySide6 source archive. The full Python 3.7 license is also in
+  LICENSES/Python-3.7.0.txt; corresponding adapted source is in
+  SOURCES/pyside-setup-everywhere-src-6.11.3.tar.xz.
+
+Official Qt 6.11.3 third-party catalog:
+https://doc.qt.io/qt-6.11/licenses-used-in-qt.html .
+Qt's llvmpipe notice: https://doc.qt.io/qt-6.11/qt-attribution-llvmpipe.html .
+
+Other packaged runtime components
+---------------------------------
+CPython 3.13.13: Python Software Foundation License version 2 and incorporated
+software notices in LICENSES/Python-3.13.13-incorporated.txt. The original
+installed runtime LICENSE.txt is also copied as LICENSES/Python-3.13.13.txt.
+The full incorporated notice includes libffi and libmpdec for _ctypes and
+_decimal, plus the other Python components described in that document.
+The Windows CPython binary also contains Microsoft Distributable Code;
+its additional conditions are in LICENSES/Python-3.13.13-Windows-CRT.txt.
+
+The CPython OpenSSL extensions and libraries (_ssl.pyd, _hashlib.pyd,
+libcrypto-3.dll and libssl-3.dll) are excluded from this package.
+SHA-256 remains provided by the CPython built-in _sha2 module.
+
+Send2Trash 1.8.3: BSD 3-Clause License and original copyright notice in
+LICENSES/Send2Trash-1.8.3.txt.
+
+watchdog 6.0.0: Apache License 2.0; copyright and terms in
+LICENSES/watchdog-6.0.0-LICENSE.txt and watchdog-6.0.0-COPYING.txt.
+
+PyInstaller 6.22.3 supplies the program bootloader. Its bootloader exception
+allows the resulting application to use separate application terms; details:
+https://pyinstaller.org/en/v6.22.3/license.html .
+
+Microsoft Visual C++ runtime DLLs are not included in this package. The
+official Microsoft Visual C++ Redistributable x64 is a separate prerequisite
+and is not covered by Qt's LGPL. No Microsoft installer is included here.
